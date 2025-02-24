@@ -1,2 +1,0 @@
-1. Change the active object using combo box(bp/code)
-2. split on mouse click or based on collision with an object
